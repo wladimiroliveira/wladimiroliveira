@@ -2,7 +2,6 @@ Olá!! Eu sou o Wladimir Moraes
 
 - 💻 Desempregado atualmente.
 - 👨🏾‍🎓 Estudando HTML5 CSS3 e JavaScript.
-- 👦🏾 Me chame de Wlad.
 
  <div>
   <a href="https://github.com/wladimir-moraes">
