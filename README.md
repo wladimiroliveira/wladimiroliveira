@@ -1,6 +1,6 @@
-Olá!! Eu sou o Wladimir Moraes
+Olá, seja bem vindo ao meu perfil!
 
-- 💻 Desempregado atualmente.
+- 💻 Em busca de oportunidades.
 - 👨🏾‍🎓 Estudando HTML5 CSS3 e JavaScript.
 
  <div>
