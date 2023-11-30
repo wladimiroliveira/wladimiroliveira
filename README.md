@@ -1,4 +1,4 @@
-Olá, seja bem vindo ao meu perfil!
+Olá, seja bem vindo(a) ao meu perfil!
 
 - 💻 Em busca de oportunidades.
 - 👨🏾‍🎓 Estudando HTML5 CSS3 e JavaScript.
