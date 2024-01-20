@@ -20,4 +20,4 @@ For those who want to know a little more about me, here are my social networks:
 
 * My channel on YouTube -> [Channel](https://www.youtube.com/@unwlad)
 * My profile on Linkedin -> [Linkedin](https://www.linkedin.com/in/moraeswladimir/)
-* My profile on Instagram -> [Instagram](https://www.intagram.com/wladoliveira_/)
+* My profile on Instagram -> [Instagram](https://www.instagram.com/wladoliveira_/)
