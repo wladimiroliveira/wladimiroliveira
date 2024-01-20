@@ -6,6 +6,6 @@ Olá, tudo bem? Eu me chamo Wladimir (Wlad) Oliveira, sou um garoto brasileiro q
 
 Para quem quer saber um pouco mais sobre mim, aqui estão as minhas redes sociais:
 
-* Meu canal no YouTube    -> [Canal](youtube.com/@unwlad)
+* Meu canal no YouTube    -> [Canal](https://www.youtube.com/@unwlad)
 * Meu perfil no Linkedin  -> [Linkedin](https://www.linkedin.com/in/moraeswladimir/)
 * Meu perfil no Instagram -> [Instagram](https://www.instagram.com/wladoliveira_/)
