@@ -49,8 +49,14 @@ For those who want to know a little more about me, here are my social networks:
 <a href="https://www.linkedin.com/in/moraeswladimir" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<p align="center">
+  <img src="./assets/Perfil-Gato-IA.jpg" width="200px"/>
+</p>
+
 <div>
 <a href="https://github.com/wladimiroliveira">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimiroliveira&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=wladimiroliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/wladimiroliveira/wladimiroliveira/blob/output/github-contribution-grid-snake.svg)
