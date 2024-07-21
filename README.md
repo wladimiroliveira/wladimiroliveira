@@ -26,6 +26,10 @@ For those who want to know a little more about me, here are my social networks:
 # Olá, seja muito bem vindo(a) ao meu perfil!
 ## Meu nome é Wladimir, mas você pode me chamar de Wlad
 
+<p align="center">
+  <img src="./assets/cat-typing.gif" width="200px"/>
+</p>
+
 * :mortar_board: - Estou estudando Engenharia de Software pela Anhanguera.
 * :computer: - Estudo sobre desenvolvimento web Front-End pela Alura.
 * :triangular_flag_on_post: - Estou em busca do meu primeiro emprego na área de desenvolvimento web/software.
