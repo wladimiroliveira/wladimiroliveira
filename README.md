@@ -1,4 +1,4 @@
-# Olá, seja bom vindo(a) 👋
+<!--# Olá, seja bom vindo(a) 👋
 
 ## Sobre mim 😺:
 
@@ -20,4 +20,16 @@ For those who want to know a little more about me, here are my social networks:
 
 * My channel on YouTube -> [Channel](https://www.youtube.com/@unwlad)
 * My profile on Linkedin -> [Linkedin](https://www.linkedin.com/in/moraeswladimir/)
-* My profile on Instagram -> [Instagram](https://www.instagram.com/wladoliveira_/)
+* My profile on Instagram -> [Instagram](https://www.instagram.com/wladoliveira_/)-->
+#Olá, seja muito bem vindo(a) ao meu perfil!
+##Meu nome é Wladimir, mas você pode me chamar de Wlad
+
+:mortar_board: - Estou estudando Engenharia de Software pela Anhanguera.
+:computer: - Estudo sobre desenvolvimento web Front-End pela Alura.
+:triangular_flag_on_post: - Estou em busca do meu primeiro emprego na área de desenvolvimento web/software.
+:mailbox: - Email para contato: wladimir2020moraes@outlook.com
+
+##Estou aprendendo
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40px" height="40px"/>
+          
