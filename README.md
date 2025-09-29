@@ -31,7 +31,6 @@ For those who want to know a little more about me, here are my social networks:
 </p>
 
 * :mortar_board: - Estou estudando Engenharia de Software pela Anhanguera.
-* :computer: - Estudo sobre desenvolvimento web Front-End pela Alura.
 * :triangular_flag_on_post: - Estou em busca do meu primeiro emprego na área de desenvolvimento web/software.
 * :mailbox: - Email para contato: wladimir4019@gmail.com
 
