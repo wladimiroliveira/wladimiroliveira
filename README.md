@@ -33,7 +33,7 @@ For those who want to know a little more about me, here are my social networks:
 * :mortar_board: - Estou estudando Engenharia de Software pela Anhanguera.
 * :computer: - Estudo sobre desenvolvimento web Front-End pela Alura.
 * :triangular_flag_on_post: - Estou em busca do meu primeiro emprego na área de desenvolvimento web/software.
-* :mailbox: - Email para contato: wladimir2020moraes@outlook.com
+* :mailbox: - Email para contato: wladimir4019@gmail.com
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" hight="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" hight="40px"/>
